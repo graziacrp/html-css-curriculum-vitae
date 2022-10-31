@@ -8,3 +8,7 @@ img {
     h5 {
         font-style: Italic;
     }
+    div {
+        width: 50%;
+        margin-left: 25%;
+    }
