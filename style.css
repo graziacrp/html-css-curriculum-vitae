@@ -12,3 +12,9 @@ img {
         width: 50%;
         margin-left: 25%;
     }
+
+    .testa {
+        text-align: center;
+        height: auto;
+        background-color: rgba (223,223 223, 0.0623);
+    }
